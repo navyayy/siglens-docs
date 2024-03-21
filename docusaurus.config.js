@@ -13,10 +13,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://siglens.github.io',
+  // url: 'https://siglens.github.io',
+  url: 'https://siglens-docs-navyayy.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/siglens-docs/',
+  // baseUrl: '/siglens-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
