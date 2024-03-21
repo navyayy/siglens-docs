@@ -129,6 +129,7 @@ const sidebars = {
     'log-query-builder',
     'dashboards',
     'saved-searches',
+    'search-command-reference',
     'alerts',
     'minion-searches',
     'cluster-health',
